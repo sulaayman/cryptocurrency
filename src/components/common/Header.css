@@ -14,10 +14,16 @@
     left: 20px;
     width: 90px;
   }
+
+  .rmdb-logo {
+    width: 200px;
+    height: 60px;
+    float: right;
+    margin: 10px;
+}
   
   @media (max-width: 700px) {
     .Header-logo {
       display: none;
     }
   }
-  
